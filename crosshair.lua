@@ -39,7 +39,7 @@ local last_render = 0
 local drawings = {
     crosshair = {},
     text = {
-        Drawing.new('Text', {Size = 13, Font = 2, Outline = true, Text = 'blazed', Color = Color3.new(1,1,1)}),
+        Drawing.new('Text', {Size = 13, Font = 2, Outline = true, Text = 'frost', Color = Color3.new(173, 216, 230)}),
         Drawing.new('Text', {Size = 13, Font = 2, Outline = true, Text = ".lol"}),
 	
     }
